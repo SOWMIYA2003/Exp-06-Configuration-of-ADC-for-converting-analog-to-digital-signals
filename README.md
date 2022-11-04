@@ -203,19 +203,7 @@ int main()
 }
 ```
 ## Tabulations and graph 
-```
-SL-NO	 % OF POT VALUE	 ADC VALUE
-  1		      10           0921
-  2		      20           0818
-  3		      30           0716
-  4		      40           0614
-  5		      50           0511
-  6		      60           0409
-  7		      70           0307
-  8		      80           0205
-  9		      90           0102
-  10	      100          0000
-```
+![op](./o4.png)
  ![image](https://user-images.githubusercontent.com/36288975/198947184-dbccf4b1-10a1-4090-a670-93526ed6e597.png)
 
 
