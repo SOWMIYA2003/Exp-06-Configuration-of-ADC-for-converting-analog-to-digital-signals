@@ -202,23 +202,23 @@ int main()
     }
 }
 ```
-## Tabulations and graph 
-![op](./o4.png)
- ![image](https://user-images.githubusercontent.com/36288975/198947184-dbccf4b1-10a1-4090-a670-93526ed6e597.png)
-
+## Tabulations :
+![op](./6table.png)
+## Graph :
+![op](./6graph.png)
 
 
  
 Figure -09 graph between % of pot(1Kohm) values and ADC 
 
-### Output screen shots :
-#### Before Stimulation :
+## Output screen shots :
+### Before Stimulation :
 ![op](./o2.png)
-#### After Stimulation :
+### After Stimulation :
 ![op](./o1.png)
-#### Circuit Diagram :
+### Circuit Diagram :
 ![op](./o3.png)
-### Result :
+## Result :
 Configuring an ADC and the input values are displayed on LCD screen 
 
 
